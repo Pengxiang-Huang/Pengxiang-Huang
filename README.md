@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Demario-Huang
 - 👀 I’m interested in computer security, architecture, and operating system
-- 🌱 I’m currently learning side channel attack and also prepare for graduate application
+- 🌱 I’m currently learning side channel attack and also prepare for graduate school application
 - 💞️ I live in Minnesota right now
 - 📫 reach me by email: huangpengxiang70@gmail.com
 
