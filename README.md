@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Pengxiang-Huang
-- 👀 I’m interested in systems, including compilers, system security, and os
-- 🌱 I’m currently learning compilers 
-- 🏠 I live in Evanston right now
+- 📚 I'm a phd student at University of Rochester
+- 👀 I’m interested in compilers, system security, and os
+- 🌱 I’m currently researching memory safety enforcing by compiler hardening  
+- 🏠 I live in Rochester, NY right now
 - 📫 reach me by email: pen.huang.cs@gmail.com
